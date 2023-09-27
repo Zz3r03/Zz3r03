@@ -1,5 +1,6 @@
 # Zz3r03
 ### Junior Sysadmin and Cybersecurity Engineer in Process
+Every day is like a summer vacation
 
 ---
 
@@ -19,6 +20,8 @@
 - **Cloud**: AWS, Azure, GCS
 - **Networking and services:** VLANs, DHCP, DNS, OSPF, Switch and Router managment, iptables, AD, ldap
 
-Currently and always learning cybersecurity
+- Currently and always learning cybersecurity, looking to improve every day
+
+
 
 ![Dino_non-birthday_version](https://github.com/Zz3r03/Zz3r03/assets/84497899/408d2884-c77e-4110-ba3d-217ff2240fb8)

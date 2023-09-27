@@ -17,4 +17,4 @@
 - **Tools**: Docker, Git
 - **Cloud**: AWS, Azure, GCS
 
-
+![Playing_T-Rex_Runner](https://github.com/Zz3r03/Zz3r03/assets/84497899/abdabafc-616b-4202-9d3d-a33cc1ac997a)

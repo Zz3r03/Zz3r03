@@ -4,11 +4,11 @@ Every day is like a summer vacation
 
 ---
 
-[![Operating Systems](https://img.shields.io/badge/OS-Linux%20%7C%20Windows%20Server-blue.svg)](https://www.example.com)
-[![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20C%20%7C%20C%23%20%7C%20Rust%20%7C%20PHP%20%7C%20Bash%20%7C%20Powershell-blue.svg)](https://www.example.com)
-[![Databases](https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20MySQL%20%7C%20Redis-blue.svg)](https://www.example.com)
-[![Tools](https://img.shields.io/badge/Tools-Docker%20%7C%20Git-blue.svg)](https://www.example.com)
-[![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCS-blue.svg)](https://www.example.com)
+[![Operating Systems](https://img.shields.io/badge/OS-Linux%20%7C%20Windows%20Server-blue.svg)]
+[![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20C%20%7C%20C%23%20%7C%20Rust%20%7C%20PHP%20%7C%20Bash%20%7C%20Powershell-blue.svg)]
+[![Databases](https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20MySQL%20%7C%20Redis-blue.svg)]
+[![Tools](https://img.shields.io/badge/Tools-Docker%20%7C%20Git-blue.svg)]
+[![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCS-blue.svg)]
 
 ---
 

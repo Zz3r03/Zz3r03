@@ -1,23 +1,30 @@
 # Zz3r03
-### Junior Sysadmin and Cybersecurity engineer on the process
+### Junior Sysadmin and Cybersecurity Engineer in Process
 
-- **Operating Systems:** Linux (Ubuntu, Debian, Arch), Windows Server (2012, 2016, 2019, 2022)
-- **Languages**: Python, C, C#, Rust, PHP, Bash, Powershell
-- **Databases**: PostgreSQL, MySQL, Redis
-- **Tools**: Docker, Git
-- **Cloud**: AWS, Azure, GCS
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
-![image](https://github.com/Zz3r03/Zz3r03/assets/84497899/1619b956-567c-44db-a74f-318ab73bcb70)
+---
 
-![image](https://github.com/Zz3r03/Zz3r03/assets/84497899/d4dcca9b-c883-4a32-9ee5-603e8ba1fb94)
+[![Operating Systems](https://img.shields.io/badge/OS-Linux%20%7C%20Windows%20Server-blue.svg)](https://www.example.com)
+[![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20C%20%7C%20C%23%20%7C%20Rust%20%7C%20PHP%20%7C%20Bash%20%7C%20Powershell-blue.svg)](https://www.example.com)
+[![Databases](https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20MySQL%20%7C%20Redis-blue.svg)](https://www.example.com)
+[![Tools](https://img.shields.io/badge/Tools-Docker%20%7C%20Git-blue.svg)](https://www.example.com)
+[![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCS-blue.svg)](https://www.example.com)
 
-![image](https://github.com/Zz3r03/Zz3r03/assets/84497899/34ae5b04-40d5-44e2-96d9-dc88a9f073ba)
+---
 
-![image](https://github.com/Zz3r03/Zz3r03/assets/84497899/2f544e75-0242-4b88-9759-8bc25645e9bc)
+#### **Operating Systems:**
+- Linux: ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420.svg) ![Debian](https://img.shields.io/badge/-Debian-A81D33.svg) ![Arch](https://img.shields.io/badge/-Arch-1793D1.svg)
+- Windows Server: ![2012](https://img.shields.io/badge/-2012-00ADEF.svg) ![2016](https://img.shields.io/badge/-2016-00ADEF.svg) ![2019](https://img.shields.io/badge/-2019-00ADEF.svg) ![2022](https://img.shields.io/badge/-2022-00ADEF.svg)
 
-![image](https://github.com/Zz3r03/Zz3r03/assets/84497899/2e1ac398-6237-4e86-a1cb-0512557b8caa)
+#### **Languages:**
+- ![Python](https://img.shields.io/badge/-Python-3776AB.svg) ![C](https://img.shields.io/badge/-C-A8B9CC.svg) ![C#](https://img.shields.io/badge/-C%23-239120.svg) ![Rust](https://img.shields.io/badge/-Rust-000000.svg) ![PHP](https://img.shields.io/badge/-PHP-777BB4.svg) ![Bash](https://img.shields.io/badge/-Bash-4EAA25.svg) ![Powershell](https://img.shields.io/badge/-Powershell-5391FE.svg)
 
-![image](https://github.com/Zz3r03/Zz3r03/assets/84497899/ffb4aaa9-a258-487a-9a6f-00354d813f98)
+#### **Databases:**
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1.svg) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg) ![Redis](https://img.shields.io/badge/-Redis-DC382D.svg)
+
+#### **Tools:**
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED.svg) ![Git](https://img.shields.io/badge/-Git-F05032.svg)
+
+#### **Cloud:**
+- ![AWS](https://img.shields.io/badge/-AWS-232F3E.svg) ![Azure](https://img.shields.io/badge/-Azure-0089D6.svg) ![GCS](https://img.shields.io/badge/-GCS-4285F4.svg)
+
+

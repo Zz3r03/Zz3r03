@@ -11,20 +11,10 @@
 
 ---
 
-#### **Operating Systems:**
-- Linux: ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420.svg) ![Debian](https://img.shields.io/badge/-Debian-A81D33.svg) ![Arch](https://img.shields.io/badge/-Arch-1793D1.svg)
-- Windows Server: ![2012](https://img.shields.io/badge/-2012-00ADEF.svg) ![2016](https://img.shields.io/badge/-2016-00ADEF.svg) ![2019](https://img.shields.io/badge/-2019-00ADEF.svg) ![2022](https://img.shields.io/badge/-2022-00ADEF.svg)
-
-#### **Languages:**
-- ![Python](https://img.shields.io/badge/-Python-3776AB.svg) ![C](https://img.shields.io/badge/-C-A8B9CC.svg) ![C#](https://img.shields.io/badge/-C%23-239120.svg) ![Rust](https://img.shields.io/badge/-Rust-000000.svg) ![PHP](https://img.shields.io/badge/-PHP-777BB4.svg) ![Bash](https://img.shields.io/badge/-Bash-4EAA25.svg) ![Powershell](https://img.shields.io/badge/-Powershell-5391FE.svg)
-
-#### **Databases:**
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1.svg) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg) ![Redis](https://img.shields.io/badge/-Redis-DC382D.svg)
-
-#### **Tools:**
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED.svg) ![Git](https://img.shields.io/badge/-Git-F05032.svg)
-
-#### **Cloud:**
-- ![AWS](https://img.shields.io/badge/-AWS-232F3E.svg) ![Azure](https://img.shields.io/badge/-Azure-0089D6.svg) ![GCS](https://img.shields.io/badge/-GCS-4285F4.svg)
+- **Operating Systems:** Linux (Ubuntu, Debian, Arch), Windows Server (2012, 2016, 2019, 2022)
+- **Languages**: Python, C, C#, Rust, PHP, Bash, Powershell
+- **Databases**: PostgreSQL, MySQL, Redis
+- **Tools**: Docker, Git
+- **Cloud**: AWS, Azure, GCS
 
 

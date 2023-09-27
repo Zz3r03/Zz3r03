@@ -15,7 +15,7 @@
 - **Languages**: Python, C, C#, Rust, PHP, Bash, Powershell
 - **Databases**: PostgreSQL, MySQL, Redis
 - **Tools**: Docker, Git, Nagios, Wireshark, Nmap
-- **Bakcup tools**: Veeam Backup, Acronis Backup, Rsync
+- **Backup tools**: Veeam Backup, Acronis Backup, Rsync
 - **Cloud**: AWS, Azure, GCS
 - **Networking and services:** VLANs, DHCP, DNS, OSPF, Switch and Router managment, iptables, AD, ldap
 

@@ -14,8 +14,10 @@
 - **Operating Systems:** Linux (Ubuntu, Debian, Arch), Windows Server (2012, 2016, 2019, 2022)
 - **Languages**: Python, C, C#, Rust, PHP, Bash, Powershell
 - **Databases**: PostgreSQL, MySQL, Redis
-- **Tools**: Docker, Git
+- **Tools**: Docker, Git, Nagios, Wireshark, Nmap
+- **Bakcup tools**: Veeam Backup, Acronis Backup, Rsync
 - **Cloud**: AWS, Azure, GCS
+- **Networking and services:** VLANs, DHCP, DNS, OSPF, Switch and Router managment, iptables, AD, ldap
 
 
 ![Dino_non-birthday_version](https://github.com/Zz3r03/Zz3r03/assets/84497899/408d2884-c77e-4110-ba3d-217ff2240fb8)

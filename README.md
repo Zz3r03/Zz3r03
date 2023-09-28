@@ -1,5 +1,5 @@
 # Zz3r03
-### Junior Sysadmin and Cybersecurity Engineer in Process
+### Junior Sysadmin and Cybersecurity Engineer in the process
 Every day is like a summer vacation
 
 ---

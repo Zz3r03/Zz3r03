@@ -40,6 +40,8 @@ Every day is like a summer vacation
 - **Containerization & Version Control:** Docker, Git
 - **Monitoring & Network Analysis:** Nagios, Wireshark, Nmap
 - **Backup Solutions:** Veeam Backup, Acronis Backup, Rsync
+- **IDS/IPS:** Suricata, Snort
+- **SIEM:** Wazuh, ELK Stack
 
 ### Cloud Platforms
 - AWS (Amazon Web Services)
